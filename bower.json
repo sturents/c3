@@ -22,7 +22,7 @@
     "htdocs",
     "spec",
     "src/*",
-    "!src/sass",
+    "!src/scss",
     "package.json",
     "component.json",
     "Gruntfile.*"
