@@ -21,7 +21,8 @@
     "bower_components",
     "htdocs",
     "spec",
-    "src",
+    "src/*",
+    "!src/sass",
     "package.json",
     "component.json",
     "Gruntfile.*"
